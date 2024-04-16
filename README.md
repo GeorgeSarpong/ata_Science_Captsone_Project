@@ -1,4 +1,5 @@
 # Data-Science-Captsone-Project: Next Word Prediction App
+# By George Sapong
 
 ## About Natural Processing Language
 
